@@ -8,6 +8,7 @@ Here are some ideas to get you started:-->
 
 ## 💬 About Me
 - I'm Taiwanese
+- Aspire to become a front-end developer
 - GitHub Noob
 
 ## 🔭 Langage and skill 
@@ -15,8 +16,18 @@ Here are some ideas to get you started:-->
 - Html, CSS, JavaScript
 - Python
 
+## 🛬 Framework
+- React
+- Bootstrap
+
 ## 🌱 I’m currently learning ...
-- Refactoring
+- Create own web page
+
+## 🛵 Hobby
+- I like listening to Podcast.
+- I enjoy riding motor.
+- I'm into watching Youtube.
+- I love dancing, also a hip hop dancer.
 
 <!--
 - 👯 I’m looking to collaborate on ...
