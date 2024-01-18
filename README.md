@@ -8,11 +8,10 @@ Here are some ideas to get you started:-->
 ## 💬 About Me
 - I'm Taiwanese
 - Aspire to become a front-end developer
-- GitHub Noob
 
 ## 🔭 Langage and skill 
-- Visual Baisc, C#
 - Html, CSS, JavaScript
+- Visual Baisc, C#
 - Python
 
 ## 🛬 Framework
@@ -20,11 +19,11 @@ Here are some ideas to get you started:-->
 - Bootstrap
 
 ## 🌱 I’m currently learning ...
-- Create own web page
+- 100 days css challenge
 
 ## 🛵 Hobby
-- I like listening to Podcast.
-- I enjoy riding motor.
+- I like listening to Podcast,ig phychology, life growth, public issues.
+- I enjoy riding motorcycle , have a Sym MMBCU and Yamaha Fazer250.
 - I'm into watching Youtube.
 - I love dancing, also a hip hop dancer.
 
