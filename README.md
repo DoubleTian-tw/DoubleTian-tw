@@ -4,7 +4,6 @@
 **DoubleTian-tw/DoubleTian-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-![我全都要](https://user-images.githubusercontent.com/84761318/163302425-0242b5dc-3627-4cd0-a56f-3b270516501b.png)
 
 ## 💬 About Me
 - I'm Taiwanese
